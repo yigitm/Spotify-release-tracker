@@ -1,0 +1,2 @@
+class NewreleasesController < ApplicationController
+end

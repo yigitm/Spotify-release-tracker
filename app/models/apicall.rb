@@ -1,0 +1,2 @@
+class Apicall < ApplicationRecord
+end

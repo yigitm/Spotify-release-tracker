@@ -1,0 +1,6 @@
+<% if params[:country].blank? %> 
+  <h1 class='text-center text-danger'>No data selected to search</h1>
+ <% else %>
+  <h1 class='text-center'>Not avaliable country market:<span class='text-danger'> <%= params[:country] %></span></h1>
+<% end %>
+ 
