@@ -1,4 +1,7 @@
-![Spotify Logo](app/assets/images/Spotify_Logo_RGB_Green.png)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # Release Tracker
 
@@ -14,7 +17,7 @@ Other model, New release is used to keep client search requests.
 
 ## API Keys
 
-Secret / API Keys are kept in local .yml file instead of using Figaro GEM to secure the private keys.
+Secret / API Keys are kept in local .yml file instead of using Figaro GEM to secure the private keys and are removed from enviroment files.
 
 ---
 
