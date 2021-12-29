@@ -15,6 +15,8 @@ Database associations are not set since; API call model is used only for keep ac
 
 Other model, New release is used to keep client search requests.
 
+![App_Gif](https://github.com/yigitm/spotify-release-tracker/blob/main/app/assets/images/app_gif.gif)
+
 ## API Keys
 
 Secret / API Keys are kept in local .yml file instead of using Figaro GEM to secure the private keys and are removed from enviroment files.
